@@ -1,4 +1,0 @@
-
-Pessimistic coverage Gianmattia Mignone
-
-https://github.com/Gianmattia/PessimisticCoverage
